@@ -15,38 +15,15 @@ This is a demo project showcasing an AI chatbot user interface (UI) with a simpl
   - Tailwind CSS
 
 
-# Login credentials
-username and password are hardcoded 
-username - user123
-password - pass123
+## Login credentials
+**username and password are hardcoded** 
+  - username - user123
+  - password - pass123
+
+
+## UI
+![Screenshot 2024-10-02 234417](https://github.com/user-attachments/assets/47188797-3f81-47dd-a7b3-fe66809b08f2)
+![Screenshot 2024-10-02 234431](https://github.com/user-attachments/assets/6d698e87-4aa3-444c-929f-8fc5f84569bb)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
